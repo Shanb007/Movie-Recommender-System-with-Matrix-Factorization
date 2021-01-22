@@ -6,3 +6,5 @@ Stochastic Gradient Descent (SGD).
 Alternating Least Squares (ALS).  
 
 We will be comparing Root Mean Square Error (RMSE) to see which Algo performs well.  We will be using MovieLens 100K dataset.
+
+Link to Dataset: https://grouplens.org/datasets/movielens/100k/
